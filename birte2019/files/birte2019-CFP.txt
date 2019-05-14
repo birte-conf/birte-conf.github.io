@@ -2,7 +2,7 @@
 
                           BIRTE 2019
  13th International Workshop on Real-Time Business Intelligence and Analytics
-                hhttp://www.carch.ac.cn/~ictdb/birte2019/
+                https://birte-conf.github.io/birte2019/
                         August 26, 2019
                 In conjunction with VLDB 2019
                       Los Angeles, CA, USA
