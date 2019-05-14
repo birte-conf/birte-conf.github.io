@@ -1,0 +1,39 @@
+            **** CALL FOR STUDENT SCHOLARSHIP AWARDS **** 
+	 	
+			     BIRTE 2017
+   Eleventh International Workshop on Real-Time Business Intelligence and Analytics
+	        http://db.cs.pitt.edu/birte2017/
+			   August 28, 2017
+	 	   In conjunction with VLDB 2017
+	     	           Munich, Germany
+
+BIRTE 2017 aims at providing an opportunity for graduate and undergraduate students to present their work and receive constructive feedback and mentoring from established researchers. Towards this, with the support of U.S. National Science Foundation and Google, the workshop will provide a limited number of scholarship awards and free early registrations to students attending the BIRTE 2017 Workshop. Priority will be given to students authors who submitted a paper to the workshop, students from underrepresented groups and those attending BIRTE for the very first time.
+
+The free registration entitles the student to attend in the BIRTE workshop and VLDB (plus any workshop on Friday). All applicants need to be full-time students (undergraduate or graduate) and need to attend all the BIRTE workshop sessions. 
+
+The scholarships will include up to $1000 support for traveling in addition to the registration and will be available in the form of reimbursements that are sent only after the completion of the workshop and submission of all required documentation and receipts.  Awardees will have to make their own arrangements for travel and accommodation. 
+
+Important Dates
+    --   Application  deadline: July 3, 2017
+    --   Awards notification: July 10, 2017
+
+Application Procedure
+   To apply for a scholarship or free registration, the student must submit the necessary materials in an e-mail to birte.workshop@gmail.com. Please submit the following materials (in a single PDF file) with your application:
+    --   Student's full name and email address.
+    --   Name and address of student's school.
+    --   Advisor's full name and email address.
+    --   One-page statement from the student, summarizing his/her research related to the workshop theme (e.g., motivation, problem description, approach, publications).
+    --   A 1-2 page CV of the student. 
+    --   Title of the paper, if student is an author of a submitted or accepted paper in BIRTE 2017.
+    --   A letter of support from the advisor. The letter should be brief, not exceeding one page, and explain if the student is in good academic standing and why/how the workshop would benefit his/her research. The letter should mention the additional travel resources that will be provided to the student for attending BIRTE and VLDB 2017. Finally, it should confirm that the student will attend the entire BIRTE workshop.
+
+    --   For scholarship applications the student must indicate the travel support amount (up to $1000).
+
+For more information, please, visit http://db.cs.pitt.edu/birte2017/travel.html. You may send your questions regarding the travel award application process to Panos K. Chrysanthis (panos@cs.pitt.edu).
+ 
+Selection Committee:
+
+
+Damianos Chatziantoniou, Athens University of Economics and Business, Greece 
+Malu Castellanos, Teradata Aster, USA 
+Panos K Chrysanthis, University of Pittsburgh, USA

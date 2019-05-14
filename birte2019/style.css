@@ -1,0 +1,366 @@
+/* Created by alkis simitsis, March 2008 */
+
+/* CSS Document */
+body {
+	padding: 0px;
+	margin: 0px;
+	background: #fff;
+	color: #582902;
+	font: 14px/16px Arial, Helvetica, sans-serif;
+}
+
+div, p, ul, form, input, h2, h3, h4, img {
+	padding: 0px;
+	margin: 0px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+/*--MAIN PANEL--*/
+#mainPan {
+	width: 980px;
+	position: relative;
+	margin: 0 auto;
+}
+
+#header-inner {
+	float: middle;
+	height: 100px;
+	width: 980px;
+	border: 0;
+}
+
+/*--Left Panel--*/
+#leftPan {
+	width: 180px;
+	height: 780px;
+	float: left;
+	background: #FFFCF4;
+	color: #582902;
+	border-top: 1px solid #E3DDCD;
+	border-bottom: 1px solid #E3DDCD;
+	border-left: 1px solid #E3DDCD;
+	border-right: 1px solid #E3DDCD;
+	padding: 8px 0 0 0;
+	margin: 20px 0 0 0;
+}
+
+#leftPan img.llogo {
+	width: 165px;
+	margin: 0px 7px 25px;
+}
+
+#leftPan img.sponsor {
+	display: block;
+	width: 165px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#leftPan ul.one {
+	width: 127px;
+	margin: 0 0 22px 11px;
+}
+
+#leftPan ul.one li {
+	width: 152px;
+	height: 21px;
+	border-bottom: 1px solid #E3DDCD;
+}
+
+#leftPan ul.one li a {
+	width: 150px;
+	height: 21px;
+	display: block;
+	background: url(images/arrow1.gif) 0px 8px no-repeat #FFFCF4;
+	color: #40361B;
+	font: 11px/22px Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 0 0 0 11px;
+}
+
+#leftPan ul.one li a:hover {
+	background: url(images/arrow2.gif) 0px 8px no-repeat #9A0000;
+	color: #fff;
+	text-decoration: none;
+	padding: 0 0 0 11px;
+}
+
+#leftPan ul.one li.home {
+	width: 150px;
+	height: 21px;
+	background: url(images/arrow2.gif) 0px 8px no-repeat #CC0000;
+	color: #fff;
+	text-decoration: none;
+	font: 11px/22px Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	padding: 0 0 0 11px;
+}
+/*--/Left Panel--*/
+
+/*--Right Panel--*/
+#rightPan {
+	width: 721px;
+	float: left;
+}
+
+/*---Top Panel--*/
+#topPan {
+	width: 721px;
+/* 	height: 150px; */
+	padding: 0px 0px 0 56px;
+}
+
+#topPan img.logo {
+	margin: 40px 0 5px;
+}
+
+#topPan p {
+	width: 721px;
+/* 	height: 18px; */
+	border: 0px solid #D1C7A7;
+	background: #fff;
+	color: #010000;
+	text-align: left;
+	font-size: 30px;
+	line-height: 34px;
+	padding: 2px 0px 4px 0px;
+}
+
+#topPan p.txt {
+	width: 721px;
+	height: 18px;
+	border: 0px solid #D1C7A7;
+	background: #fff;
+	color: #010000;
+	text-align: left;
+	font-size: 22px;
+	padding: 8px 0px 2px 0px;
+}
+/*--/Top Panel--*/
+
+/*--Body Panel--*/
+#bodyPan {
+	width: 721px;
+	padding: 55px 40px 0 56px;
+}
+
+#bodyPan h2 {
+	height: 25px;
+	background: #fff;
+	color: #40361B;
+	font: 28px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 0px 0px 8px 0px
+}
+
+#bodyPan h3 {
+	height: 30px;
+	background: #fff;
+	color: #40361B;
+	font: 22px/24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 30px 10px 10px 0px
+}
+
+#bodyPan h4 {
+	height: 20px;
+	background: #fff;
+	color: #40361B;
+	font: 18px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 2px 0px 0px 0px
+}
+
+#bodyPan p { 0 8px no-repeat;
+	padding: 10px 0 0 0px;
+}
+
+#bodyPan p.stressedtxt { 0 8px no-repeat;
+	padding: 5px 0 0px 20px;
+}
+
+#bodyPan p.more {
+	background: url(images/more-line.gif) 0 90% repeat-x;
+}
+
+#bodyPan p.more a {
+	background: #fff;
+	color: #CC0000;
+	font: 13px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 0 0 0 320px;
+/* 	text-align:center; */
+}
+
+#bodyPan p.more a:hover {
+	background: #E3DDCD;
+	color: #CC0000;
+	text-decoration: none;
+}
+
+#bodyPan p a { 0 8px no-repeat;
+	padding: 10px 0 0 0px;
+	color: #000;
+	text-decoration: underline;
+}
+
+#bodyPan p a:hover { 0 8px no-repeat;
+	padding: 10px 0 0 0px;
+	color: #5E2401;
+	text-decoration: underline;
+}
+
+#bodyPan ul.alist li {
+	width: 700px;
+	height: 20px;
+	background: url(images/bullet1.gif) 0px 3px no-repeat #fff;
+	color: #000;
+	line-height: 20px;
+	padding: 0 0 0 20px;
+}
+
+#bodyPan ul.blist li {
+	width: 700px;
+	height: 20px;
+	background: url(images/bullet2.gif) 20px 3px no-repeat #fff;
+	color: #582902;
+	line-height: 20px;
+	padding: 0 0 0 40px;
+}
+
+#bodyPan ul.hnlist li a {
+	height: 20px;
+	background: 0 0 no-repeat #fff;
+	color: #000;
+	line-height: 20px;
+	text-decoration: underline;
+}
+
+#bodyPan ul.hlist li a {
+	height: 20px;
+	background: 0 0 no-repeat #fff;
+	color: #000;
+	line-height: 20px;
+	text-decoration: underline;
+}
+
+#bodyPan ul.hlist li a:hover {
+	background: 0 0 no-repeat #fff;
+	color: #5E2401;
+	line-height: 20px;
+	text-decoration: underline;
+}
+
+/*--Body Lower Panel--*/
+#bodylowerPan {
+	width: 550px;
+	padding: 11px 0 0;
+	position: relative;
+	margin: 0 auto;
+}
+
+#bodylowerLeftPan {
+	width: 320px;
+	padding: 0 40px 0 0;
+	float: left;
+}
+
+#bodylowerLeftPan p {
+	padding: 15px 0;
+}
+
+#bodylowerLeftPan h3 {
+	height: 30px;
+	background: #fff;
+	color: #40361B;
+	font: 22px/24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 15px 10px 10px 0px
+}
+
+#bodylowerLeftPan h4 {
+	height: 20px;
+	background: #fff;
+	color: #40361B;
+	font: 18px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 10px 0px 0px 0px
+}
+
+#bodylowerLeftPan ul.list {
+	width: 450px;
+}
+
+#bodylowerLeftPan ul.list li {
+	width: 550px;
+	/* 	height: 20px; */
+	margin: 0 0 5px 0;
+}
+
+#bodylowerLeftPan ul.list li a {
+	width: 550px;
+	/* 	height: 20px; */
+	background: url(images/bullet1.gif) 0 3px no-repeat #fff;
+	color: #000;
+	/* 	line-height: 20px; */
+	text-decoration: underline;
+	padding: 0 0 0 20px;
+}
+
+#bodylowerLeftPan ul.list li a:hover {
+	width: 550px;
+	background: url(images/bullet2.gif) 0 3px no-repeat #fff;
+	color: #5E2401;
+	/* 	line-height: 20px; */
+	text-decoration: underline;
+}
+
+#bodylowerLeftPan p.more {
+	background: url(images/more-line.gif) 0 90% repeat-x;
+	padding: 10px 0px 0px 0px;
+}
+
+#bodylowerLeftPan p.more a {
+	background: #fff;
+	color: #CC0000;
+	font: 13px/14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 0 0 0 320px;
+}
+
+#bodylowerLeftPan p.more a:hover {
+	background: #E3DDCD;
+	color: #CC0000;
+	text-decoration: none;
+}
+
+#bodylowerRightPan {
+	width: 190px;
+	float: left;
+}
+
+#bodylowerRightPan p {
+	padding: 0px 0;
+}
+
+#bodylowerRightPan p.rpan {
+	padding: 140px 55px;
+}
+
+#bodylowerRightPan p.rpan a {
+	text-decoration: none;
+	color: #000;
+}
+
+#bodylowerRightPan p.rpan a:hover {
+	font-weight: bold;
+	color: #5E2401;
+	text-decoration: none;
+}
+/*--/Body Lower Panel--*/
+table#spaced {
+	border-collapse: separate;
+	border-spacing: 0 15px;
+}f

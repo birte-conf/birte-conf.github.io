@@ -1,0 +1,84 @@
+                    ***  CALL FOR PAPERS  ***
+
+                          BIRTE 2019
+ 13th International Workshop on Real-Time Business Intelligence and Analytics
+                hhttp://www.carch.ac.cn/~ictdb/birte2019/
+                        August 26, 2019
+                In conjunction with VLDB 2019
+                      Los Angeles, CA, USA
+
+=============================================================================
+
+
+DESCRIPTION
+
+The BIRTE workshop brings together researchers and practitioners interested in the different facets of real-time business intelligence and real-time analytics, from data acquisition, to processing, to transformation and analysis, to data visualization. Participants will have the opportunity to present their current work in the context of real problems to which they have applied their solutions, innovations and infrastructure and discuss challenges, opportunities and advances in this field. At the same time, as with any other workshop, it will provide the right environment to network with people working on the workshop topics, fostering future collaboration and the consolidation of a solid community that sets the path towards the future of this increasingly important field.
+
+IMPORTANT DATES
+
+* (Optional) Abstracts due: May 22, 2019
+* Papers due: June 1, 2019
+* Notification of acceptance: July 1, 2019
+* Camera-ready copies: August 8, 2019
+* Workshop: August 26, 2019
+
+TOPICS OF INTEREST
+
+Areas of interest for the workshop include (but are not limited to) the following, as THEY RELATE TO REAL-TIME OPERATION, BUSINESS INTELLIGENCE & DATA ANALYTICS:
+
+-Analytics as a service
+-In-database and in-memory analytics
+-Serverless and lambda processing for real-time BI and analytics
+-Streaming data, stream computing and streaming systems
+-Streaming/real-time systems for machine learning and AI
+-Machine learning and AI for real-time systems
+-Data mining, analytics, and OLAP for real-time decision support
+-Novel architectures for real-time analytics
+-Real-time analytics with hardware acceleration use cases
+-Optimization, performance, and scalability of real-time analytics
+-Tuning and management of the real-time data warehouses
+-Integration of real-time, historical, and transactional data
+-Data ingestion and capture in real-time
+-Visualizing real-time data and information
+-Case studies and experience (lessons, pitfalls, guidelines) from real-time BI practice
+
+We call for research, industrial, position, and demo submissions covering these topics of interest. Papers describing real-time BI/real-time analytics systems, platforms, and applications are especially welcome.
+
+SUBMISSION GUIDELINES
+
+The online proceedings will be published by ACM ICPS. The length of research and industrial papers should not exceed 10 pages, whereas the maximum page limit for position papers and demo papers are 6 and 3 pages, respectively. Papers in PDF should be submitted electronically to the review web site at https://cmt3.research.microsoft.com/BIRTE2019.
+
+FORMATTING
+
+All papers must follow the ACM Proceedings Format, using either the sample-sigconf.tex or ACM_SigConf.docx template provided at https://www.acm.org/publications/proceedings-template for LaTeX (version 2e) or Word, respectively. Note that the font size has to be changed to 10 pts. The margins, inter-column spacing, and line spacing in the templates must be kept unchanged.
+
+
+ORGANIZATION
+
+* General Chair
+  Malu Castellanos, Teradata, USA
+
+* PC Chairs
+  Badrish Chandramouli, Microsoft Research, USA
+  Shimin Chen, Chinese Academy of Sciences, China
+ 
+* PC Members
+  Avrilia Floratou, Microsoft
+  Evaggelia Pitoura, University of Ioannina
+  Ivo Santos, Microsoft
+  Kartik Paramasivam, LinkedIn
+  Meichun Hsu, Oracle America
+  Mohamed Sharaf, Univeristy of Queensland
+  Nesime Tatbul, Intel Labs and MIT
+  Peter Pietzuch, Imperial College London
+  Stefan Appel, Siemens, Germany
+  Themis Palpanas, Paris Descartes University
+  Wolfgang Lehner, TU Dresden
+  Yunjun Gao, Zhejiang University
+
+* Proceedings Chair
+  Damianos Chatziantoniou, Athens University of Economics and Business (AUEB), Greece
+
+* Publicity Chair
+  Daniel Petrov, University of Pittsburgh
+
